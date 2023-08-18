@@ -1,0 +1,8 @@
+.container {
+  position: relative;
+    color: #fff;
+    display:flex;
+    font-size: 1rem;
+    background-color: black;
+    width: 100%;
+}
